@@ -13,6 +13,12 @@
     },
     {
       "pattern": "https://zhuanlan.zhihu.com/p/37637923"
+    },
+    {
+      "pattern": "https://www.bilibili.com/video/av52038617"
+    },
+    {
+      "pattern": "https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw"
     }
   ]
 }
